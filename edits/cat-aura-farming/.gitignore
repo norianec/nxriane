@@ -1,0 +1,4 @@
+# renders + the unreleased track stay local (re-render with scripts/render.py)
+out/
+assets/*.wav
+__pycache__/
